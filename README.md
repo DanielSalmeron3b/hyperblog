@@ -10,6 +10,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado opor el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **No te tomes este Readme muy en serio.** Está diseñado para el ejemplo.
 Mejor ve el [**curso**](https://platzi.com/git)
